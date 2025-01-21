@@ -8,5 +8,6 @@ int main()
 {
     cout << "Github practice";
     cout << "attempt1";
+    cout << "commit 2";
 }
 

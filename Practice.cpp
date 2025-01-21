@@ -7,5 +7,6 @@ using namespace std;
 int main()
 {
     cout << "Github practice";
+    cout << "attempt1";
 }
 
